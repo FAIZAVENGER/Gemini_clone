@@ -1,4 +1,6 @@
-Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
+#KIRA-Gemini Clone 
+
+Gemini clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
 
 Table of Contents
 
