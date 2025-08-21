@@ -62,13 +62,13 @@ Follow these steps to set it up on your own computer:
 1. **Clone the project:**
 
    ```bash
-   git clone https://github.com/RanitManik/Gemini-Clone.git
+   git clone https://github.com/FAIZAVENGER/Gemini_clone.git
    ```
 
 2. **Move into the folder:**
 
    ```bash
-   cd Gemini-Clone
+   cd Gemini_Clone
    ```
 
 3. **Install all the required packages:**
