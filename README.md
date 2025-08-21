@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/fe0d6fcd-8f52-4bac-adce-d3351fbb0af7" alt="google-gemini-icon" height="70" />
 
-# KIRA AI Gemini Clone
+# KIRA AI (Gemini Clone)
 
 </div>
 
