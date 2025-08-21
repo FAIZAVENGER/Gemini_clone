@@ -20,8 +20,6 @@ This project is perfect for learning how to work with APIs, build chat interface
 * [Features](#features)
 * [Getting Started](#getting-started)
 * [How to Use](#how-to-use)
-* [Contribute](#contribute)
-* [License](#license)
 * [Thanks](#thanks)
 
 ---
